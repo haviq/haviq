@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I so Happy.</h1>
 
 
-<h1>Welcome to my Profile! </br> I'm Hanif FIras Syafiq, one of the students at UNRIYO   </h1>
+<h1>Welcome to my Profile! </br> I'm Hanif Firas Syafiq, 
+	one of the students at UNRIYO   </h1>
 <h3>I Will Learning All this Code </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -30,7 +31,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>SEARCH OPEN PROJECT</h3>
 <table>
   <thead align="center">
     <tr border: none;>

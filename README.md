@@ -2,7 +2,7 @@
 
 
 <h1>Welcome to my Profile! </br> I'm Hanif Firas Syafiq, 
-	one of the students at UNRIYO   </h1>
+	one of the students at UNRIYO  ! week 1 Project </h1>
 <h3>I Will Learning All this Code </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />

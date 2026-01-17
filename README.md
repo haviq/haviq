@@ -4,7 +4,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=720&size=30&pause=1000&color=18ff5d&center=true&vCenter=true&width=435&lines=Hi+There!;I%27m+Hanif+Firas+Syafiq;Fullstack+Developer;" alt="Typing SVG" />
 </div>
 
+<div align="left">
 
+<strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MicroPython-3776AB?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython" />
+  <br />
+
+   <strong>Databases & Tools</strong><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+</div>
 
 <h3>I Will Learning All this Code </h3>
 <p>

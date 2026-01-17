@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I so Happy.</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=720&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+There!;I%27m+Hanif+Firas+Syafiq;Fullstack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=720&size=30&pause=1000&color=18ff5d&center=true&vCenter=true&width=435&lines=Hi+There!;I%27m+Hanif+Firas+Syafiq;Fullstack+Developer;" alt="Typing SVG" />
 </div>
 
 

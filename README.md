@@ -36,7 +36,6 @@ $ uname -a
 </div>
 
 - 🚀 Building **[TLGram-Drive](https://github.com/haviq/TLGram-Drive-)** — Telegram as cloud storage, Android app built with Tauri v2 + Rust + React
-- 🤖 Running AI agents & LLM routers (9router, Hermes, Agent Zero)
 - 🌐 Website: **[haviq.dev](https://haviq.dev)**
 - 📱 Android app developer — Tauri v2, Flutter
 - ⚡ Automation enthusiast — n8n, bots, Telegram API

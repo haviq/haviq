@@ -127,23 +127,7 @@ $ uname -a
 
 <div align="center">
 
-## 🤖 Current Focus
 
-```
-╔══════════════════════════════════════════════╗
-║  🔨 Currently Building                       ║
-║  └─ TLGram-Drive v1.x (Rust + Tauri + React) ║
-║  └─ 9router — Personal LLM Router           ║
-║                                              ║
-║  📚 Currently Learning                       ║
-║  └─ Rust advanced patterns                   ║
-║  └─ AI agent architectures                   ║
-║                                              ║
-║  🎯 Goals 2026                               ║
-║  └─ Ship more open source tools              ║
-║  └─ Build AI-native mobile apps              ║
-╚══════════════════════════════════════════════╝
-```
 
 ## 🌐 Connect
 

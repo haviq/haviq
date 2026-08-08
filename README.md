@@ -84,9 +84,9 @@ $ uname -a
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haviq&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haviq&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
 
 <br/>
 
@@ -100,21 +100,56 @@ $ uname -a
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/haviq/TLGram-Drive-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haviq&repo=TLGram-Drive-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&cache_seconds=86400" />
-</a>
-<a href="https://github.com/haviq/RamadhanTracker-APK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haviq&repo=RamadhanTracker-APK&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&cache_seconds=86400" />
-</a>
-
-<br/>
-
-<a href="https://github.com/haviq/weddinginvitation-nextjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haviq&repo=weddinginvitation-nextjs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&cache_seconds=86400" />
-</a>
-<a href="https://github.com/haviq/webgis-sampah">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haviq&repo=webgis-sampah&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&cache_seconds=86400" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/TLGram-Drive-">
+        <img src="https://img.shields.io/badge/TLGram--Drive-00d4ff?style=for-the-badge&logo=rust&logoColor=0d1117" /><br/>
+        <strong>TLGram-Drive</strong>
+      </a>
+      <br/>
+      <sub>Telegram as cloud storage — Tauri v2 + Rust + React + Android</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/haviq/TLGram-Drive-?style=flat-square&color=00d4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/TLGram-Drive-?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/RamadhanTracker-APK">
+        <img src="https://img.shields.io/badge/RamadhanTracker-00d4ff?style=for-the-badge&logo=flutter&logoColor=0d1117" /><br/>
+        <strong>RamadhanTracker</strong>
+      </a>
+      <br/>
+      <sub>Ramadhan tracker app — Flutter + Android APK</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/haviq/RamadhanTracker-APK?style=flat-square&color=00d4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/RamadhanTracker-APK?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/weddinginvitation-nextjs">
+        <img src="https://img.shields.io/badge/Wedding%20Invitation-00d4ff?style=for-the-badge&logo=next.js&logoColor=0d1117" /><br/>
+        <strong>Wedding Invitation</strong>
+      </a>
+      <br/>
+      <sub>Digital wedding invitation — Next.js + Tailwind</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/haviq/weddinginvitation-nextjs?style=flat-square&color=00d4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/weddinginvitation-nextjs?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/webgis-sampah">
+        <img src="https://img.shields.io/badge/WebGIS%20Sampah-00d4ff?style=for-the-badge&logo=leaflet&logoColor=0d1117" /><br/>
+        <strong>WebGIS Sampah</strong>
+      </a>
+      <br/>
+      <sub>Waste mapping system — WebGIS + Leaflet + Laravel</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/haviq/webgis-sampah?style=flat-square&color=00d4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/webgis-sampah?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
 
 </div>
 

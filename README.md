@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=H4v1Q&fontSize=72&fontColor=00d4ff&fontAlignY=38&desc=Building%20things%20that%20matter%20%7C%20AI%20Enthusiast%20%7C%20Indonesia%20🇮🇩&descAlignY=60&descColor=a0c4ff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=H4v1Q&fontSize=72&fontColor=00d4ff&fontAlignY=38&desc=Building%20things%20that%20matter%20%7C%20Indonesia%20🇮🇩&descAlignY=60&descColor=a0c4ff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Tauri+%2B+Rust+%2B+React+Builder+%F0%9F%A6%80;AI+Integration+Enthusiast+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Always+learning+new+things...+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Tauri+%2B+Rust+%2B+React+Builder+%F0%9F%A6%80;Open+Source+Contributor+%F0%9F%8C%8D;Mobile+App+Developer+%F0%9F%93%B1;Always+learning+new+things...+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,10 +16,10 @@
 
 ```bash
 $ whoami
-> H4v1Q — Developer · Builder · AI Enthusiast · Indonesia 🇮🇩
+> H4v1Q — Developer · Builder · Indonesia 🇮🇩
 
 $ cat about.txt
-> Currently building: AI-powered tools & Android apps
+> Currently building: Telegram cloud storage & Android apps
 > Stack: Rust + TypeScript + React + Tauri + Flutter
 > Interests: Automation · Telegram API · Mobile Dev · Open Source
 
@@ -31,7 +31,7 @@ $ uname -a
 
 <div align="center">
 
-## 🧠 About Me
+## About Me
 
 </div>
 
@@ -39,7 +39,6 @@ $ uname -a
 - 🌐 Website: **[haviq.dev](https://haviq.dev)**
 - 📱 Android & Mobile app developer — Tauri v2, Flutter
 - ⚡ Automation enthusiast — n8n, bots, Telegram API
-- 🤖 AI integration & tooling
 - 🌍 Indonesia 🇮🇩 | WIB (UTC+7)
 
 ---

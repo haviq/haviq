@@ -89,7 +89,7 @@ $ uname -a
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=ffffff&sideLabels=a0c4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=ffffff&sideLabels=a0c4ff)](https://git.io/streak-stats)
 
 </div>
 
@@ -170,3 +170,4 @@ $ uname -a
 
 <!-- Capsule Render Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=00d4ff&fontAlignY=65)
+

@@ -103,7 +103,7 @@ $ uname -a
 
 <br/>
 
-![Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakatime.com&username=haviq&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haviq&theme=tokyonight)
 
 </div>
 

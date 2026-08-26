@@ -98,11 +98,12 @@ $ uname -a
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=ffffff&sideLabels=a0c4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=ffffff&sideLabels=a0c4ff)](https://git.io/streak-stats)
+
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haviq&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakatime.com&username=haviq&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 

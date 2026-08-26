@@ -98,7 +98,7 @@ $ uname -a
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=ffffff&sideLabels=a0c4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=ffffff&sideLabels=a0c4ff)](https://git.io/streak-stats)
 
 
 <br/>

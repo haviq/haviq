@@ -111,7 +111,7 @@ $ uname -a
 
 <div align="center">
 
-## Featured Projects
+## My Projects
 
 <table>
   <tr>

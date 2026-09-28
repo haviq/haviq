@@ -3,7 +3,7 @@
 <!-- Capsule Render Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=H4v1Q&fontSize=72&fontColor=F8FAFC&fontAlignY=38&desc=Building%20things%20that%20matter%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=60&descColor=FDE68A&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=F8FAFC&background=111820&center=true&vCenter=true&width=720&height=50&lines=kas+taruna+%C2%B7+live;telegram+as+a+hard+drive;rust+where+it+counts;nuxt+on+the+front;android+in+the+pocket)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?v=20260928&font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=F8FAFC&background=111820&center=true&vCenter=true&width=720&height=50&lines=kas+taruna+%C2%B7+live;telegram+as+a+hard+drive;rust+where+it+counts;nuxt+on+the+front;android+in+the+pocket)](https://git.io/typing-svg)
 
 <br/>
 

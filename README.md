@@ -133,10 +133,11 @@ $ uname -a
         <strong>TLGram-Drive</strong>
       </a>
       <br/>
-      <sub>Telegram as cloud storage -- Tauri v2 + Rust + React + Android</sub>
+      <sub>Telegram as cloud storage -- Tauri v2 + Rust + React + Android
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/haviq/TLGram-Drive-?style=flat-square&color=F59E0B&labelColor=0d1117" />
-      <img src="https://img.shields.io/github/last-commit/haviq/TLGram-Drive-?style=flat-square&color=A78BFA&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Private-Android-24C8D8?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Tauri_v2-111827?style=flat-square&labelColor=0d1117" /></sub>
+      <br/><br/>
     </td>
   </tr>
   <tr>

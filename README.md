@@ -90,6 +90,13 @@ $ uname -a
 
 <div align="center">
 
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/Haaviq/Haaviq/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## GitHub Stats
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F59E0B&text_color=ffffff&icon_color=22C55E"/>

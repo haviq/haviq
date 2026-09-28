@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=H4v1Q&fontSize=72&fontColor=00d4ff&fontAlignY=38&desc=Building%20things%20that%20matter%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=60&descColor=a0c4ff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=H4v1Q&fontSize=72&fontColor=F8FAFC&fontAlignY=38&desc=Building%20things%20that%20matter%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=60&descColor=FDE68A&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Tauri+%2B+Rust+%2B+React+Builder+%F0%9F%A6%80;Nuxt+3+%2B+Vue+3+%2B+SQLite+Craftsman+%E2%9A%A1;Mobile+App+Developer+%F0%9F%93%B1;Building+products+that+solve+real+problems+%F0%9F%8C%8F;Open+Source+Contributor+%F0%9F%8C%8D;Always+shipping%2C+always+learning...+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=FB923C&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Tauri+%2B+Rust+%2B+React+Builder+%F0%9F%A6%80;Nuxt+3+%2B+Vue+3+%2B+SQLite+Craftsman+%E2%9A%A1;Mobile+App+Developer+%F0%9F%93%B1;Building+products+that+solve+real+problems+%F0%9F%8C%8F;Open+Source+Contributor+%F0%9F%8C%8D;Always+shipping%2C+always+learning...+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=haviq&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/haviq?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/haviq?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=haviq&color=F59E0B&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/haviq?style=for-the-badge&color=22C55E&labelColor=0d1117&label=FOLLOWERS)](https://github.com/haviq?tab=followers)
 
 </div>
 
@@ -92,13 +92,13 @@ $ uname -a
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F59E0B&text_color=ffffff&icon_color=22C55E"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haviq&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haviq&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=ffffff&sideLabels=a0c4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=FB923C&fire=F472B6&currStreakLabel=FDE68A&dates=ffffff&sideLabels=E5E7EB)](https://git.io/streak-stats)
 
 
 <br/>
@@ -117,75 +117,75 @@ $ uname -a
   <tr>
     <td align="center" width="50%">
       <a href="https://kas-taruna-web.vercel.app">
-        <img src="https://img.shields.io/badge/Kas%20Taruna-live-00d4ff?style=for-the-badge&logo=nuxtdotjs&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/Kas%20Taruna-live-22C55E?style=for-the-badge&logo=nuxtdotjs&logoColor=0d1117" /><br/>
         <strong>Kas Taruna</strong>
       </a>
       <br/>
       <sub>SaaS manajemen kas & iuran organisasi -- Nuxt 3 + SQLite + JWT + Google Sheets</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Live-00d4ff?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Live-22C55E?style=flat-square&labelColor=0d1117" />
       <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&labelColor=0d1117&logo=nuxtdotjs" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&labelColor=0d1117&logo=sqlite" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/haviq/TLGram-Drive-">
-        <img src="https://img.shields.io/badge/TLGram--Drive-open%20source-00d4ff?style=for-the-badge&logo=rust&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/TLGram--Drive-open%20source-F59E0B?style=for-the-badge&logo=rust&logoColor=0d1117" /><br/>
         <strong>TLGram-Drive</strong>
       </a>
       <br/>
       <sub>Telegram as cloud storage -- Tauri v2 + Rust + React + Android</sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/haviq/TLGram-Drive-?style=flat-square&color=00d4ff&labelColor=0d1117" />
-      <img src="https://img.shields.io/github/last-commit/haviq/TLGram-Drive-?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/stars/haviq/TLGram-Drive-?style=flat-square&color=F59E0B&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/TLGram-Drive-?style=flat-square&color=A78BFA&labelColor=0d1117" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://haviq-kkn-unit9.vercel.app">
-        <img src="https://img.shields.io/badge/KKN%20Plosorejo-live-00d4ff?style=for-the-badge&logo=next.js&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/KKN%20Plosorejo-live-38BDF8?style=for-the-badge&logo=next.js&logoColor=0d1117" /><br/>
         <strong>KKN Unit 9 Portal</strong>
       </a>
       <br/>
       <sub>Desa digital portal -- Next.js + Firebase + Leaflet + Merapi map</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Live-00d4ff?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Live-22C55E?style=flat-square&labelColor=0d1117" />
       <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&labelColor=0d1117&logo=next.js" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&labelColor=0d1117&logo=firebase" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/haviq/weddinginvitation-nextjs">
-        <img src="https://img.shields.io/badge/Wedding%20Invitation-open%20source-00d4ff?style=for-the-badge&logo=next.js&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/Wedding%20Invitation-open%20source-F472B6?style=for-the-badge&logo=next.js&logoColor=0d1117" /><br/>
         <strong>Wedding Invitation</strong>
       </a>
       <br/>
       <sub>Digital wedding invitation -- Next.js + Tailwind CSS</sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/haviq/weddinginvitation-nextjs?style=flat-square&color=00d4ff&labelColor=0d1117" />
-      <img src="https://img.shields.io/github/last-commit/haviq/weddinginvitation-nextjs?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/stars/haviq/weddinginvitation-nextjs?style=flat-square&color=F59E0B&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/weddinginvitation-nextjs?style=flat-square&color=A78BFA&labelColor=0d1117" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/haviq/webgis-sampah">
-        <img src="https://img.shields.io/badge/WebGIS%20Sampah-open%20source-00d4ff?style=for-the-badge&logo=leaflet&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/WebGIS%20Sampah-open%20source-A78BFA?style=for-the-badge&logo=leaflet&logoColor=0d1117" /><br/>
         <strong>WebGIS Sampah</strong>
       </a>
       <br/>
       <sub>Waste mapping system -- WebGIS + Leaflet + Laravel</sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/haviq/webgis-sampah?style=flat-square&color=00d4ff&labelColor=0d1117" />
-      <img src="https://img.shields.io/github/last-commit/haviq/webgis-sampah?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/stars/haviq/webgis-sampah?style=flat-square&color=F59E0B&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/webgis-sampah?style=flat-square&color=A78BFA&labelColor=0d1117" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/haviq/RamadhanTracker-APK">
-        <img src="https://img.shields.io/badge/RamadhanTracker-open%20source-00d4ff?style=for-the-badge&logo=flutter&logoColor=0d1117" /><br/>
+        <img src="https://img.shields.io/badge/RamadhanTracker-open%20source-FB923C?style=for-the-badge&logo=flutter&logoColor=0d1117" /><br/>
         <strong>RamadhanTracker</strong>
       </a>
       <br/>
       <sub>Ramadhan tracker app -- Flutter + Android APK</sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/haviq/RamadhanTracker-APK?style=flat-square&color=00d4ff&labelColor=0d1117" />
-      <img src="https://img.shields.io/github/last-commit/haviq/RamadhanTracker-APK?style=flat-square&color=a0c4ff&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/stars/haviq/RamadhanTracker-APK?style=flat-square&color=F59E0B&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/RamadhanTracker-APK?style=flat-square&color=A78BFA&labelColor=0d1117" />
     </td>
   </tr>
 </table>
@@ -198,7 +198,7 @@ $ uname -a
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/haviq.dev-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://haviq.dev)
+[![Website](https://img.shields.io/badge/haviq.dev-F8FAFC?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://haviq.dev)
 [![Telegram](https://img.shields.io/badge/@Haaviq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Haaviq)
 [![GitHub](https://img.shields.io/badge/github.com%2Fhaviq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haviq)
 
@@ -209,4 +209,4 @@ $ uname -a
 </div>
 
 <!-- Capsule Render Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=00d4ff&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=F8FAFC&fontAlignY=65)

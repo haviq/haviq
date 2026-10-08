@@ -1,0 +1,39 @@
+name: Daily Commit
+
+on:
+  schedule:
+    # jam 01:17 WIB (18:17 UTC) tiap hari
+    - cron: "17 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set git identity
+        run: |
+          git config user.name "Hanif Firas Syafiq"
+          git config user.email "hanifviras2027@gmail.com"
+
+      - name: Update daily log
+        run: |
+          mkdir -p .daily
+          echo "$(date -u '+%Y-%m-%d %H:%M UTC')" >> .daily/log.txt
+          tail -n 60 .daily/log.txt > .daily/tmp && mv .daily/tmp .daily/log.txt
+
+      - name: Commit and push
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: daily activity $(date -u '+%Y-%m-%d')"
+            git push
+          fi

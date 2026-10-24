@@ -106,6 +106,10 @@ $ uname -a
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haviq&theme=tokyonight)
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haviq&theme=tokyonight" width="47%" alt="Repos per language"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haviq&theme=tokyonight" width="47%" alt="Productive time"/>
+
 </div>
 
 ---

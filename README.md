@@ -106,14 +106,6 @@ $ uname -a
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haviq&theme=tokyonight)
 
-<br/>
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=haviq&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/haviq?tab=repositories)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haviq&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F8FAFC&line=F59E0B&point=22C55E&area=true&area_color=1a1a2e)
-
 </div>
 
 ---

@@ -9,6 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haviq&color=F59E0B&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/haviq?style=for-the-badge&color=22C55E&labelColor=0d1117&label=FOLLOWERS)](https://github.com/haviq?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/haviq?affiliations=OWNER&style=for-the-badge&color=F59E0B&labelColor=0d1117&label=STARS)](https://github.com/haviq?tab=repositories)
 
 </div>
 
@@ -34,7 +35,7 @@ $ uname -a
 
 <div align="center">
 
-## About   Me
+## About Me
 
 </div>
 
@@ -90,13 +91,6 @@ $ uname -a
 
 <div align="center">
 
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/Haaviq/Haaviq/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ## GitHub Stats
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F59E0B&text_color=ffffff&icon_color=22C55E"/>
@@ -111,6 +105,24 @@ $ uname -a
 <br/>
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haviq&theme=tokyonight)
+
+<br/>
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=haviq&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/haviq?tab=repositories)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haviq&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F8FAFC&line=F59E0B&point=22C55E&area=true&area_color=1a1a2e)
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Graph
+
+![snake](https://raw.githubusercontent.com/haviq/haviq/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

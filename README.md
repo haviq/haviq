@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 📱 iOS App Library · Tech Stack
+##  Tech Stack
 
 <sub>Aplikasi & teknologi yang digunakan, disusun dalam format iOS squircle app icon bersih tanpa badge teks</sub>
 

@@ -15,24 +15,6 @@
 
 ---
 
-```bash
-$ whoami
-> H4v1Q -- Systems & Mobile Software Engineer · Indonesia
-
-$ cat about.txt
-> Active Focus: 9router Galactus (Autonomous AI Gateway), Kas Taruna (SaaS), TLGram-Drive
-> Architecture: Pure Go (CGO-free), Rust, Tauri v2, Nuxt 3, Flutter, React
-> Domain: High-performance routing, mobile clients, distributed systems & automation
-
-$ ls -la projects/
-> 9router-Galaxtus/    kas-taruna-web/    TLGram-Drive/    kkn-unit9/    webgis-sampah/
-
-$ uname -a
-> HaviqOS 2026 -- powered by coffee, curiosity, and production workloads
-```
-
----
-
 <div align="center">
 
 ## 📱 iOS App Library · Tech Stack
@@ -64,52 +46,6 @@ $ uname -a
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-## 🚀 Featured Applications & Systems
-
-</div>
-
-### ⚡ [9router Galactus Edition](https://github.com/haviq/9router-Galaxtus)
-> **Autonomous Multi-Provider AI Router & Token Optimizer**  
-> Gateway AI berkinerja tinggi dalam satu binary Go murni (CGO-free) tanpa dependensi runtime Node.js. Dilengkapi dynamic routing, model mapping, dan smart fallback cascade di 40+ AI engine.  
-> `Go 1.24` · `CGO-Free` · `SQLite-vec` · `AI Gateway` · `High Performance`
-
-<br/>
-
-### 💳 [Kas Taruna](https://kas-taruna-web.vercel.app) `[Production SaaS · Live]`
-> **SaaS Manajemen Kas & Iuran Organisasi**  
-> Sistem tata kelola keuangan organisasi dengan pencatatan otomatis, autentikasi aman JWT, penyimpanan SQLite, dan sinkronisasi dua arah real-time dengan Google Sheets.  
-> `Nuxt 3` · `Vue.js` · `SQLite` · `JWT Auth` · `Google Sheets API` · `Tailwind CSS`
-
-<br/>
-
-### 📁 [TLGram-Drive](https://github.com/haviq/TLGram-Drive-) `[Mobile App]`
-> **Telegram MTProto as Unlimited Cloud Storage**  
-> Aplikasi Android native untuk mengelola dan menyimpan file tanpa batas menggunakan infrastruktur Telegram MTProto cloud sebagai back-end storage.  
-> `Tauri v2` · `Rust` · `React` · `Android Native` · `MTProto API`
-
-<br/>
-
-### 🗺️ [KKN Unit 9 Portal](https://haviq-kkn-unit9.vercel.app) `[Live]`
-> **Desa Digital & Disaster Response WebGIS**  
-> Portal digital terintegrasi untuk pemetaan wilayah, geofencing kawasan rawan bencana Gunung Merapi secara real-time, dan profil informasi desa.  
-> `Next.js` · `Firebase Realtime` · `Leaflet WebGIS` · `Tailwind CSS`
-
-<br/>
-
-<details>
-<summary><b>📂 Lihat Aplikasi & Repositori Lainnya</b></summary>
-<br/>
-
-- **[Wedding Invitation](https://github.com/haviq/weddinginvitation-nextjs)** — Undangan digital interaktif berbasis Next.js dan Tailwind CSS dengan fitur RSVP online dan pesan dinamis.
-- **[WebGIS Sampah](https://github.com/haviq/webgis-sampah)** — Sistem pemetaan rute pengangkutan sampah dan titik TPS berbasis spasial menggunakan Leaflet dan Laravel.
-- **[RamadhanTracker APK](https://github.com/haviq/RamadhanTracker-APK)** — Aplikasi mobile Flutter untuk pemantauan ibadah harian dan jadwal salat bagi pengguna Android.
-
-</details>
 
 ---
 

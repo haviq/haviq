@@ -1,294 +1,228 @@
 <div align="center">
 
-<!-- ==================== iOS STATUS BAR ==================== -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="left" width="30%">
-      &nbsp;&nbsp;<b>9:41</b>
-    </td>
-    <td align="center" width="40%">
-      <!-- Dynamic Island Pill -->
-      <a href="https://github.com/haviq">
-        <img src="https://img.shields.io/badge/%EF%A3%BF%20Dynamic%20Island-%E2%96%B6%20Building%20Galactus%20%26%20Kas%20Taruna-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Dynamic Island" />
-      </a>
-    </td>
-    <td align="right" width="30%">
-      <b>5G&nbsp;&nbsp;􀛨 100%</b>&nbsp;&nbsp;
-    </td>
-  </tr>
-</table>
+<!-- Capsule Render Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=H4v1Q&fontSize=72&fontColor=F8FAFC&fontAlignY=38&desc=Building%20things%20that%20matter%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=60&descColor=FDE68A&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?v=20260928&font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=F8FAFC&background=111820&center=true&vCenter=true&width=720&height=50&lines=kas+taruna+%C2%B7+live;telegram+as+a+hard+drive;rust+where+it+counts;nuxt+on+the+front;android+in+the+pocket)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ==================== HERO / LARGE TITLE ==================== -->
-<h1> H4v1Q</h1>
-<p>
-  <b>Systems & Mobile Software Engineer · Full-Stack Builder</b><br/>
-  <sub>Yogyakarta, Indonesia 🇮🇩 &nbsp;·&nbsp; ICT / UTC+7 (WIB)</sub>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?v=20260928&font=SF+Pro+Display&weight=600&size=20&duration=2600&pause=800&color=F5F5F7&background=1C1C1E&center=true&vCenter=true&width=620&height=44&lines=kas+taruna+%C2%B7+production+saas;9router+galactus+%C2%B7+cgo-free+go+gateway;tlgram-drive+%C2%B7+telegram+as+unlimited+storage;tauri+v2+%2B+rust+%C2%B7+native+android;crafting+clean+systems+%26+interfaces)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ==================== QUICK BADGES ==================== -->
-<p>
-  <a href="https://haviq.dev"><img src="https://img.shields.io/badge/Safari-haviq.dev-007AFF?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
-  <a href="https://t.me/Haaviq"><img src="https://img.shields.io/badge/Messages-@Haaviq-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:hanifviras2027@gmail.com"><img src="https://img.shields.io/badge/Mail-hanifviras2027-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Mail" /></a>
-  <a href="https://github.com/haviq?tab=followers"><img src="https://img.shields.io/github/followers/haviq?style=flat-square&color=34C759&labelColor=1C1C1E&label=%E2%97%8F%20Followers" alt="Followers" /></a>
-  <a href="https://github.com/haviq?tab=repositories"><img src="https://img.shields.io/github/stars/haviq?affiliations=OWNER&style=flat-square&color=FF9500&labelColor=1C1C1E&label=%E2%98%85%20Stars" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=haviq&color=AF52DE&style=flat-square&label=Profile%20Views" alt="Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=haviq&color=F59E0B&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/haviq?style=for-the-badge&color=22C55E&labelColor=0d1117&label=FOLLOWERS)](https://github.com/haviq?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/haviq?affiliations=OWNER&style=for-the-badge&color=F59E0B&labelColor=0d1117&label=STARS)](https://github.com/haviq?tab=repositories)
 
 </div>
 
 ---
 
-### 􀐏 `DeveloperProfile.swift`
+```bash
+$ whoami
+> H4v1Q -- Developer · Builder · Indonesia
 
-```swift
-import SwiftUI
+$ cat about.txt
+> Currently building: Kas Taruna (SaaS), TLGram-Drive (Telegram cloud), Android apps
+> Stack: Nuxt 3 · Rust · TypeScript · React · Tauri · Flutter · Laravel
+> Interests: SaaS Products · Automation · Telegram API · Mobile Dev · Open Source
 
-struct DeveloperProfile: View {
-    let identity = "H4v1Q"
-    let title    = "Systems & Mobile Software Engineer"
-    let location = "Indonesia 🇮🇩 (WIB / UTC+7)"
-    let runtime  = "HaviqOS 18.4 · Powered by Rust, Go & Espresso"
-    
-    var activeProjects: [Project] {
-        [
-            Project(name: "9router Galactus", stack: ["Go", "CGO-Free", "SQLite-vec"], status: .production),
-            Project(name: "Kas Taruna",       stack: ["Nuxt 3", "SQLite", "JWT"],     status: .live),
-            Project(name: "TLGram-Drive",     stack: ["Tauri v2", "Rust", "React"],   status: .active)
-        ]
-    }
-}
+$ ls projects/
+> kas-taruna-web/   TLGram-Drive/   kkn-unit9/   portofolionew/   webgis-sampah/
+
+$ uname -a
+> HaviqOS 2026 -- powered by coffee, curiosity, and real deadlines
 ```
 
 ---
 
 <div align="center">
-  <h2>􀋚 WidgetKit · Featured Applications</h2>
-  <sub>Curated production software & open-source solutions</sub>
+
+## About Me
+
 </div>
 
-<br/>
-
-<table width="100%">
-  <tr>
-    <!-- WIDGET 1: 9router Galactus -->
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/haviq/9router-Galaxtus">
-          <img src="https://img.shields.io/badge/%20Widget-9router%20Galactus-007AFF?style=for-the-badge&logo=go&logoColor=white" alt="9router Galactus" /><br/>
-          <h3>⚡ 9router Galactus Edition</h3>
-        </a>
-        <p><sub><b>Autonomous Multi-Provider AI Router & Token Optimizer</b><br/>
-        Single CGO-free pure Go binary. Zero Node.js runtime. Smart fallback cascade across 40+ LLM engines.</sub></p>
-        <p>
-          <img src="https://img.shields.io/badge/Go%201.24-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/CGO--Free-34C759?style=flat-square&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/High%20Performance-FF9500?style=flat-square&labelColor=1C1C1E" />
-        </p>
-      </div>
-    </td>
-    <!-- WIDGET 2: Kas Taruna -->
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://kas-taruna-web.vercel.app">
-          <img src="https://img.shields.io/badge/%20Widget-Kas%20Taruna-34C759?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Kas Taruna" /><br/>
-          <h3>💳 Kas Taruna</h3>
-        </a>
-        <p><sub><b>Production SaaS Manajemen Kas & Iuran Organisasi</b><br/>
-        Real-time financial tracking, automated ledger, JWT security, and seamless two-way Google Sheets sync.</sub></p>
-        <p>
-          <img src="https://img.shields.io/badge/Nuxt%203-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/Status-Live-34C759?style=flat-square&labelColor=1C1C1E" />
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- WIDGET 3: TLGram-Drive -->
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/haviq/TLGram-Drive-">
-          <img src="https://img.shields.io/badge/%20Widget-TLGram--Drive-FF9500?style=for-the-badge&logo=rust&logoColor=white" alt="TLGram-Drive" /><br/>
-          <h3>📁 TLGram-Drive</h3>
-        </a>
-        <p><sub><b>Telegram MTProto as Unlimited Cloud Storage</b><br/>
-        Cross-platform mobile Android application powered by Tauri v2, Rust core, and high-performance React front.</sub></p>
-        <p>
-          <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/Tauri%20v2-24C8D8?style=flat-square&logo=tauri&logoColor=white&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=1C1C1E" />
-        </p>
-      </div>
-    </td>
-    <!-- WIDGET 4: KKN Unit 9 Portal -->
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://haviq-kkn-unit9.vercel.app">
-          <img src="https://img.shields.io/badge/%20Widget-KKN%20Unit%209-5856D6?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="KKN Unit 9" /><br/>
-          <h3>🗺️ KKN Unit 9 Portal</h3>
-        </a>
-        <p><sub><b>Desa Digital & Disaster Response WebGIS</b><br/>
-        Interactive spatial portal with live Merapi volcano geofencing, Leaflet maps, and real-time Firebase backend.</sub></p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=1C1C1E" />
-          <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white&labelColor=1C1C1E" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <h2>⚙️ Preferences.app · System Configuration</h2>
-  <sub>Hardware, Architecture & Runtime Specifications</sub>
-</div>
-
-<br/>
-
-| Preference Pane | Configuration Details | Status |
-| :--- | :--- | :---: |
-| ** General ‣ About** | Low-Level Systems, AI Gateways & Mobile Application Engineer | `Active` |
-| **🌐 Network ‣ Domain** | Primary web gateway live at [haviq.dev](https://haviq.dev) | `200 OK` |
-| **📱 Device ‣ Mobile** | Tauri v2 (Rust + React) & Flutter for Android native deployment | `Installed` |
-| **🗄️ Storage ‣ Databases** | SQLite, PostgreSQL, Firebase Realtime, Vector storage | `Encrypted` |
-| **⚡ Kernel ‣ Automation** | n8n autonomous pipelines, Telegram bots, GitHub Actions CI/CD | `Running` |
-| **🔋 Battery Health** | Maximum Capacity 100% · Continuous Learning & Shipping | `Peak Performance` |
-
----
-
-<div align="center">
-  <h2>􀣋 App Library · Installed Frameworks & Technologies</h2>
-  <sub>Categorized system libraries and dev dependencies</sub>
-</div>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <th width="33%"><h3>📱 Systems & Mobile</h3></th>
-    <th width="33%"><h3>🌐 Frontend & Web</h3></th>
-    <th width="33%"><h3>☁️ Cloud & Ops</h3></th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Tauri%20v2-24C8D8?style=flat-square&logo=tauri&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1C1C1E" />
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Nuxt%203-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=1C1C1E" />
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=1C1C1E" /><br/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=1C1C1E" />
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <h2>📂 Spotlight · More Repositories</h2>
-</div>
-
-<br/>
-
-| Project | Tech Stack | Description | Source |
-| :--- | :--- | :--- | :---: |
-| **Wedding Invitation** | `Next.js` · `Tailwind CSS` | Digital wedding platform with guest RSVP & dynamic greetings | [GitHub ↗](https://github.com/haviq/weddinginvitation-nextjs) |
-| **WebGIS Sampah** | `Leaflet` · `Laravel` · `GIS` | Spatial waste management & environmental collection mapping | [GitHub ↗](https://github.com/haviq/webgis-sampah) |
-| **RamadhanTracker** | `Flutter` · `Dart` · `Android` | Mobile companion app for worship tracking & prayer schedules | [GitHub ↗](https://github.com/haviq/RamadhanTracker-APK) |
+- Building **[Kas Taruna](https://kas-taruna-web.vercel.app)** -- SaaS manajemen kas & iuran organisasi, Nuxt 3 + SQLite + JWT + Google Sheets sync
+- Building **[TLGram-Drive](https://github.com/haviq/TLGram-Drive-)** -- Telegram as cloud storage, Android app with Tauri v2 + Rust + React
+- Built **[KKN Unit 9 Portal](https://haviq-kkn-unit9.vercel.app)** -- desa digital portal, Next.js + Firebase + Leaflet + Merapi map
+- Website: **[haviq.dev](https://haviq.dev)**
+- Android & Mobile app developer -- Tauri v2, Flutter
+- Automation enthusiast -- n8n, bots, Telegram API
+- Indonesia | WIB (UTC+7)
 
 ---
 
 <div align="center">
 
-<h2>􀐫 Screen Time & Cupertino HealthKit</h2>
-<sub>Continuous commit velocity & language telemetry</sub>
+## Tech Stack
 
-<br/>
+**Languages**
 
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1C1C1E&title_color=0A84FF&text_color=F5F5F7&icon_color=30D158"/>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+**Tools & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Stats
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haviq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F59E0B&text_color=ffffff&icon_color=22C55E"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haviq&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1C1C1E&title_color=BF5AF2&text_color=F5F5F7"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haviq&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
 
-<br/><br/>
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haviq&theme=tokyonight-duo&hide_border=true&background=1C1C1E&ring=FF9500&fire=FF375F&currStreakLabel=FFD60A&dates=F5F5F7&sideLabels=8E8E93)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haviq&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=FB923C&fire=F472B6&currStreakLabel=FDE68A&dates=ffffff&sideLabels=E5E7EB)](https://git.io/streak-stats)
 
-<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haviq&theme=tokyonight" width="48%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haviq&theme=tokyonight" width="48%" alt="Productive time"/>
+<br/>
 
-<br/><br/>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haviq&theme=tokyonight)
 
-<!-- Activity Heatmap -->
-<h3>􀉭 Contribution Timeline</h3>
+<br/>
 
-![Activity Snake](https://raw.githubusercontent.com/haviq/haviq/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haviq&theme=tokyonight" width="47%" alt="Repos per language"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haviq&theme=tokyonight" width="47%" alt="Productive time"/>
 
 </div>
 
 ---
 
-<!-- ==================== iOS DOCK ==================== -->
 <div align="center">
 
-<table border="0" cellpadding="8" cellspacing="0">
+## Contribution Graph
+
+![snake](https://raw.githubusercontent.com/haviq/haviq/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## My Projects
+
+<table>
   <tr>
-    <td align="center" style="background:#1C1C1E; border-radius:18px;">
-      <a href="https://haviq.dev">
-        <img src="https://img.shields.io/badge/%EF%A3%BF%20Safari-haviq.dev-007AFF?style=for-the-badge&logo=safari&logoColor=white" alt="Safari" />
+    <td align="center" width="50%">
+      <a href="https://kas-taruna-web.vercel.app">
+        <img src="https://img.shields.io/badge/Kas%20Taruna-live-22C55E?style=for-the-badge&logo=nuxtdotjs&logoColor=0d1117" /><br/>
+        <strong>Kas Taruna</strong>
       </a>
-      &nbsp;
-      <a href="https://t.me/Haaviq">
-        <img src="https://img.shields.io/badge/Messages-@Haaviq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Messages" />
+      <br/>
+      <sub>SaaS manajemen kas & iuran organisasi -- Nuxt 3 + SQLite + JWT + Google Sheets</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Live-22C55E?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&labelColor=0d1117&logo=nuxtdotjs" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&labelColor=0d1117&logo=sqlite" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/TLGram-Drive-">
+        <img src="https://img.shields.io/badge/TLGram--Drive-open%20source-F59E0B?style=for-the-badge&logo=rust&logoColor=0d1117" /><br/>
+        <strong>TLGram-Drive</strong>
       </a>
-      &nbsp;
-      <a href="mailto:hanifviras2027@gmail.com">
-        <img src="https://img.shields.io/badge/Mail-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+      <br/>
+      <sub>Telegram as cloud storage -- Tauri v2 + Rust + React + Android
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Private-Android-24C8D8?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Tauri_v2-111827?style=flat-square&labelColor=0d1117" /></sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://haviq-kkn-unit9.vercel.app">
+        <img src="https://img.shields.io/badge/KKN%20Plosorejo-live-38BDF8?style=for-the-badge&logo=next.js&logoColor=0d1117" /><br/>
+        <strong>KKN Unit 9 Portal</strong>
       </a>
-      &nbsp;
-      <a href="https://github.com/haviq">
-        <img src="https://img.shields.io/badge/GitHub-@haviq-34C759?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <br/>
+      <sub>Desa digital portal -- Next.js + Firebase + Leaflet + Merapi map</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Live-22C55E?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&labelColor=0d1117&logo=next.js" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&labelColor=0d1117&logo=firebase" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/weddinginvitation-nextjs">
+        <img src="https://img.shields.io/badge/Wedding%20Invitation-open%20source-F472B6?style=for-the-badge&logo=next.js&logoColor=0d1117" /><br/>
+        <strong>Wedding Invitation</strong>
       </a>
+      <br/>
+      <sub>Digital wedding invitation -- Next.js + Tailwind CSS</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/haviq/weddinginvitation-nextjs?style=flat-square&color=F59E0B&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/weddinginvitation-nextjs?style=flat-square&color=A78BFA&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/webgis-sampah">
+        <img src="https://img.shields.io/badge/WebGIS%20Sampah-open%20source-A78BFA?style=for-the-badge&logo=leaflet&logoColor=0d1117" /><br/>
+        <strong>WebGIS Sampah</strong>
+      </a>
+      <br/>
+      <sub>Waste mapping system -- WebGIS + Leaflet + Laravel</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/haviq/webgis-sampah?style=flat-square&color=F59E0B&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/webgis-sampah?style=flat-square&color=A78BFA&labelColor=0d1117" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/haviq/RamadhanTracker-APK">
+        <img src="https://img.shields.io/badge/RamadhanTracker-open%20source-FB923C?style=for-the-badge&logo=flutter&logoColor=0d1117" /><br/>
+        <strong>RamadhanTracker</strong>
+      </a>
+      <br/>
+      <sub>Ramadhan tracker app -- Flutter + Android APK</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/haviq/RamadhanTracker-APK?style=flat-square&color=F59E0B&labelColor=0d1117" />
+      <img src="https://img.shields.io/github/last-commit/haviq/RamadhanTracker-APK?style=flat-square&color=A78BFA&labelColor=0d1117" />
     </td>
   </tr>
 </table>
 
+</div>
+
+---
+
+<div align="center">
+
+## Connect
+
+[![Website](https://img.shields.io/badge/haviq.dev-F8FAFC?style=for-the-badge&logo=google-chrome&logoColor=0d1117)](https://haviq.dev)
+[![Telegram](https://img.shields.io/badge/@Haaviq-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Haaviq)
+[![GitHub](https://img.shields.io/badge/github.com%2Fhaviq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haviq)
+
 <br/>
 
-<sub><i>"Details matter, it's worth waiting to get it right."</i> — Steve Jobs</sub>
-
-<br/><br/>
-
-<!-- Minimal Cupertino Home Indicator -->
-<img src="https://img.shields.io/badge/―――――-000000?style=flat&color=3A3A3C" alt="Home Bar" />
+*"Talk is cheap. Show me the code."* -- Linus Torvalds
 
 </div>
+
+<!-- Capsule Render Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=F8FAFC&fontAlignY=65)
